@@ -12,12 +12,4 @@ I2Cdev
 MPU6050\_6Axis\_MotionApps20  
 SoftwareSerial
 
-
-
-
-
-
-
-  
-
-![Alt text](cube.JPG?raw=true "Poster")
+![alt text](cube.jpg?raw=true "Poster")
